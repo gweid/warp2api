@@ -20,6 +20,3 @@ dependencies = [
 warp-server = "server:main"
 warp-test = "main:main"
 
-[[tool.uv.index]]
-url = "https://mirrors.ustc.edu.cn/pypi/simple"
-default = true
